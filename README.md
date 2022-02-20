@@ -38,13 +38,13 @@ Parts required to print:
 Parts required to purchase:
 | Part                                 | Qty | Comment | References |
 | ------------------------------------ | --- | ------- | ---------- |
-| TT 1:90 Gearbox DC Motor             | 1   | Measured about 155 actutations/min, 5.4 hours for 50k actuations (measurement based on my purchased motor) | [Tokopedia](https://www.tokopedia.com/cncstorebandung/motor-dc-gearbox-metal-gear-tt-motor-single-shaft-all-metal) |
-| HK 0306 Needle Roller Bearing        | 2   | - | [link 1](https://www.skf.com/us/products/rolling-bearings/roller-bearings/needle-roller-bearings/drawn-cup-needle-roller-bearings/productid-HK%200306%20TN) |
+| TT 1:90 Gearbox DC Motor             | 1   | - | [Tokopedia](https://www.tokopedia.com/cncstorebandung/motor-dc-gearbox-metal-gear-tt-motor-single-shaft-all-metal) |
+| HK 0306 Needle Roller Bearing        | 2   | - | - |
 | M3 x 8mm Screw                       | 6   | - | - |
 | M3 x 12mm Screw                      | 2   | - | - |
 | M3 x 25mm Screw                      | 2   | - | - |
-| Female USB C to 2-pin 22 AWG Wires   | 1   | - | [link 1](https://www.aliexpress.com/item/1005001388133794.html?spm=a2g0o.productlist.0.0.5eb0510fZ1x7CB&algo_pvid=72711e6a-5844-4e73-a4a4-c90b141b40e0&algo_exp_id=72711e6a-5844-4e73-a4a4-c90b141b40e0-16&pdp_ext_f=%7B%22sku_id%22%3A%2212000015898874380%22%7D) <br> [link 2](https://www.aliexpress.com/item/1005002271810476.html?spm=a2g0o.productlist.0.0.2819510fomHmwf&algo_pvid=a239c4db-a4cf-4337-b6a1-f4db0c4cff98&algo_exp_id=a239c4db-a4cf-4337-b6a1-f4db0c4cff98-2&pdp_ext_f=%7B%22sku_id%22%3A%2212000019849627354%22%7D) |
-| 8mm Diameter Bumpons                 | 4   | Optional | [link 1](https://shopee.sg/MAGIC-100PCS-Sheet-Soft-Buffer-Sticker-Furniture-Accessories-Gel-Shock-Absorber-Rubber-Silicone-Pads-Cabinets-Door-Stop-Anti-collision-Toilets-Bumpers-Non-Slip-Self-Adhesive-Multicolor-i.299069493.11802920607) |
+| Female USB C to 2-pin 22 AWG Wires   | 1   | - | - |
+| 8mm Diameter Bumpons                 | 4   | Optional | - |
 
 ## To-Do 📝
 - A guide on breaking-in switches that have shorter travel distance will be shared soon.
