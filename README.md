@@ -1,5 +1,5 @@
 # Fork notes:
-Fork for adjustment to be more suitable to be built with parts found from Indonesian marketplace. **This fork is still in progress and all parts are not proven to be compatible yet.** Please check the [original repo] (https://github.com/keekeen/MX-Switch-Break-In-Machine/).
+Fork for adjustment to be more suitable to be built with parts found from Indonesian marketplace. **This fork is still in progress and all parts are not proven to be compatible yet.** Please check the [original repo](https://github.com/keekeen/MX-Switch-Break-In-Machine/).
 
 # MX Switch Break-In Machine
 A simple machine designed to actuate/ break-in MX style switches consistently and repetitively for a smoother push feel. Watch the [assembly process and operation](https://www.youtube.com/watch?v=iYIlCdo38ZM&list=PLLd9RKaLkD3lO_kQBJ3w394Xko4Nm3RR9) of the machine here.
