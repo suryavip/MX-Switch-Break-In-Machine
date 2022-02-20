@@ -42,7 +42,7 @@ Parts required to purchase:
 | HK 0306 Needle Roller Bearing        | 2   | - | - |
 | M3 x 8mm Screw                       | 6   | - | - |
 | M3 x 12mm Screw                      | 2   | - | - |
-| M3 x 25mm Screw                      | 2   | - | - |
+| M3 x 25mm Screw                      | 2   | - | [Tokopedia](https://www.tokopedia.com/rmbtools/baut-jp-m3-x-25-stainless-steel-baut-jp-stainless-m3-x-25mm-sus-304) |
 | Female USB C to 2-pin 22 AWG Wires   | 1   | - | - |
 | 8mm Diameter Bumpons                 | 4   | Optional | - |
 
