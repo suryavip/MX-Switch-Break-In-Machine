@@ -40,9 +40,9 @@ Parts required to purchase:
 | ------------------------------------ | --- | ------- | ---------- |
 | TT 1:90 Gearbox DC Motor             | 1   | - | [Tokopedia (but single shaft, cannot adjust motor position manually)](https://www.tokopedia.com/cncstorebandung/motor-dc-gearbox-metal-gear-tt-motor-single-shaft-all-metal) |
 | HK 0306 Needle Roller Bearing        | 2   | - | [Tokopedia](https://www.tokopedia.com/rodabearing/hk-0306-tv-a-hk0306tva-needle-roller-bearing-laher-bambu) |
-| M3 x 8mm Screw                       | 6   | - | [Tokopedia](https://www.tokopedia.com/rmbtools/baut-jp-m3-x-8-stainless-steel-baut-jp-stainless-m3-x-8-mm-sus-304) |
-| M3 x 12mm Screw                      | 2   | - | [Tokopedia (100pcs)](https://www.tokopedia.com/rmbtools/baut-jp-m3-x-12-mm-sekrup-skrup-baut-jp-m3-x-12-isi-100pcs-jp0312?src=topads) |
-| M3 x 25mm Screw                      | 2   | - | [Tokopedia](https://www.tokopedia.com/rmbtools/baut-jp-m3-x-25-stainless-steel-baut-jp-stainless-m3-x-25mm-sus-304) |
+| M3 x 8mm Screw                       | 6   | - | [Tokopedia (min. 3 x 10pcs)](https://www.tokopedia.com/rmbtools/baut-jp-m3-x-8-stainless-steel-baut-jp-stainless-m3-x-8-mm-sus-304) |
+| M3 x 12mm Screw                      | 2   | - | [Tokopedia (min. 100pcs)](https://www.tokopedia.com/rmbtools/baut-jp-m3-x-12-mm-sekrup-skrup-baut-jp-m3-x-12-isi-100pcs-jp0312?src=topads) |
+| M3 x 25mm Screw                      | 2   | - | [Tokopedia (min. 2 x 10pcs)](https://www.tokopedia.com/rmbtools/baut-jp-m3-x-25-stainless-steel-baut-jp-stainless-m3-x-25mm-sus-304) |
 | ~~Female USB C to 2-pin 22 AWG Wires~~   | ~~1~~   | - | ~~[Tokopedia (closest and cheapest one, but I think the seller is a bit suspicious)](https://www.tokopedia.com/starelevens/1-usb-type-c-waterproof-connector-welding-wire-female-socket-fast)~~ |
 | *alternative:* <br> DC Female plug 5.5mm x 2.1mm coupled with: | 1 | - | [Tokopedia (DC female plug)](https://www.tokopedia.com/rajacell/socket-dc-plug-female-power-adapter-cctv-5-5mm-x-2-1mm-ke-kabel-12v) |
 | - *USB A male to DC male cable* | 1? | - | [Tokopedia](https://www.tokopedia.com/rajacell/kabel-usb-to-jack-dc-bulat-5-5mm-4-0mm-3-5mm-2-5mm-2-0mm-adapter-cas-5-5mm-x-2-1mm) |
