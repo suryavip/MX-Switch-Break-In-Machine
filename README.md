@@ -38,7 +38,7 @@ Parts required to print:
 Parts required to purchase:
 | Part                                 | Qty | Comment | References |
 | ------------------------------------ | --- | ------- | ---------- |
-| TT 1:90 Gearbox DC Motor             | 1   | - | [Tokopedia](https://www.tokopedia.com/cncstorebandung/motor-dc-gearbox-metal-gear-tt-motor-single-shaft-all-metal) |
+| TT 1:90 Gearbox DC Motor             | 1   | - | [Tokopedia (but single shaft, cannot adjust motor position manually)](https://www.tokopedia.com/cncstorebandung/motor-dc-gearbox-metal-gear-tt-motor-single-shaft-all-metal) |
 | HK 0306 Needle Roller Bearing        | 2   | - | - |
 | M3 x 8mm Screw                       | 6   | - | - |
 | M3 x 12mm Screw                      | 2   | - | - |
